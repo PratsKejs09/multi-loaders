@@ -1,2 +1,2 @@
-# multi-loaders
+# BetterLoadingExperience
 Created with CodeSandbox
